@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /d/
+Sitemap: https://livinggoddess1.github.io/shop/sitemap.xml
